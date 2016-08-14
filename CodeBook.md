@@ -86,7 +86,7 @@ prefix Acc is replaced with Accelerometer,
 prefix Gyro is replaced with Gyroscope, 
 prefix Mag is replaced with Magnitude, 
 
-#### Create a Tidy data set with average of each variable for each activity and each subject.
+## Create a Tidy data set with average of each variable for each activity and each subject.
 The tidy data set contains :
 
 * an identifier of the subject who carried out the experiment (__Subject__). Its range is from 1 to 30. 
